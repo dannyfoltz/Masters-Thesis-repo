@@ -1,2 +1,2 @@
-# Masters-Thesis-repo
+# Master's Thesis
 Final thesis for Master's of Science in Economics program at the University of Bologna.
